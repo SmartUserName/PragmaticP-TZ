@@ -8,4 +8,4 @@
 * Run terraform init and terraform apply
 
 ## Posible improvements
-* Use Ansible for Docker nad Enginx deployment
+* Use Ansible for Docker and Enginx deployment
